@@ -1,0 +1,4 @@
+example-migration_config.py
+archive
+v[0-9]*.py
+*.pyc
